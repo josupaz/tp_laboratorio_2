@@ -1,0 +1,9 @@
+J:\Labo2\tp_laboratorio_2\tp_laboratorio_2\TP1\Calculadora\Calculadora\Entidades\bin\Debug\netstandard2.0\Entidades.deps.json
+J:\Labo2\tp_laboratorio_2\tp_laboratorio_2\TP1\Calculadora\Calculadora\Entidades\bin\Debug\netstandard2.0\Entidades.dll
+J:\Labo2\tp_laboratorio_2\tp_laboratorio_2\TP1\Calculadora\Calculadora\Entidades\bin\Debug\netstandard2.0\Entidades.pdb
+J:\Labo2\tp_laboratorio_2\tp_laboratorio_2\TP1\Calculadora\Calculadora\Entidades\obj\Debug\netstandard2.0\Entidades.csprojAssemblyReference.cache
+J:\Labo2\tp_laboratorio_2\tp_laboratorio_2\TP1\Calculadora\Calculadora\Entidades\obj\Debug\netstandard2.0\Entidades.csproj.CoreCompileInputs.cache
+J:\Labo2\tp_laboratorio_2\tp_laboratorio_2\TP1\Calculadora\Calculadora\Entidades\obj\Debug\netstandard2.0\Entidades.AssemblyInfoInputs.cache
+J:\Labo2\tp_laboratorio_2\tp_laboratorio_2\TP1\Calculadora\Calculadora\Entidades\obj\Debug\netstandard2.0\Entidades.AssemblyInfo.cs
+J:\Labo2\tp_laboratorio_2\tp_laboratorio_2\TP1\Calculadora\Calculadora\Entidades\obj\Debug\netstandard2.0\Entidades.dll
+J:\Labo2\tp_laboratorio_2\tp_laboratorio_2\TP1\Calculadora\Calculadora\Entidades\obj\Debug\netstandard2.0\Entidades.pdb

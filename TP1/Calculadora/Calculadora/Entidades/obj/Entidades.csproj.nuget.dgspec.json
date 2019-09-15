@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "J:\\Labo2\\tp_laboratorio_2\\tp_laboratorio_2\\TP1\\Calculadora\\Calculadora\\Entidades\\Entidades.csproj": {}
+  },
+  "projects": {
+    "J:\\Labo2\\tp_laboratorio_2\\tp_laboratorio_2\\TP1\\Calculadora\\Calculadora\\Entidades\\Entidades.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "J:\\Labo2\\tp_laboratorio_2\\tp_laboratorio_2\\TP1\\Calculadora\\Calculadora\\Entidades\\Entidades.csproj",
+        "projectName": "Entidades",
+        "projectPath": "J:\\Labo2\\tp_laboratorio_2\\tp_laboratorio_2\\TP1\\Calculadora\\Calculadora\\Entidades\\Entidades.csproj",
+        "packagesPath": "C:\\Users\\Josu\\.nuget\\packages\\",
+        "outputPath": "J:\\Labo2\\tp_laboratorio_2\\tp_laboratorio_2\\TP1\\Calculadora\\Calculadora\\Entidades\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Josu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
