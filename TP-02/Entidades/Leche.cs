@@ -18,6 +18,7 @@ namespace Entidades_2018
 
         ETipo tipo;
 
+        #region "Constructores"
 
         /// <summary>
         /// Constructor de leche, reutiliza el del padre.
@@ -43,6 +44,10 @@ namespace Entidades_2018
         {
         }
 
+        #endregion
+
+        #region "Propiedades"
+
         /// <summary>
         /// Las leches tienen 20 calorías
         /// </summary>
@@ -53,6 +58,11 @@ namespace Entidades_2018
                 return 20;
             }
         }
+
+        #endregion
+
+        #region "Metodos"
+
         /// <summary>
         /// Metodo Mostrar hereda de padre y aumenta datos a mostrar propios de la clase
         /// </summary>
@@ -68,5 +78,7 @@ namespace Entidades_2018
             sb.AppendLine("---------------------");
             return sb.ToString();
         }
+
+        #endregion
     }
 }

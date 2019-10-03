@@ -18,6 +18,9 @@ namespace Entidades_2018
         private EMarca marca;
         private string codigoDeBarras;
         private ConsoleColor colorPrimarioEmpaque;
+
+        #region "Constructores"
+
         /// <summary>
         /// Constructor de Producto
         /// </summary>
@@ -31,6 +34,10 @@ namespace Entidades_2018
             this.colorPrimarioEmpaque = color;
         }
 
+        #endregion
+
+        #region "Propiedades"
+
         /// <summary>
         /// ReadOnly: Retornara la cantidad de calorias
         /// </summary>
@@ -38,6 +45,10 @@ namespace Entidades_2018
         {
             get;
         }
+
+        #endregion
+
+        #region "Metodos"
 
         /// <summary>
         /// Publica todos los datos del Producto.
@@ -48,7 +59,11 @@ namespace Entidades_2018
             return (string)this;
         }
 
-        public  static explicit operator string(Producto p)
+        #endregion
+
+        #region "operadores"
+
+        public static explicit operator string(Producto p)
         {
             StringBuilder sb = new StringBuilder();
 
@@ -80,5 +95,7 @@ namespace Entidades_2018
         {
             return !(v1.codigoDeBarras == v2.codigoDeBarras);
         }
+
+        #endregion
     }
 }

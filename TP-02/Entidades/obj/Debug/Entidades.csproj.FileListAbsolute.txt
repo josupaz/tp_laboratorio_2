@@ -17,3 +17,9 @@ C:\Users\Josu\Desktop\TP-02\Entidades\obj\Debug\Entidades.csprojAssemblyReferenc
 C:\Users\Josu\Desktop\TP-02\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
 C:\Users\Josu\Desktop\TP-02\Entidades\obj\Debug\Entidades.dll
 C:\Users\Josu\Desktop\TP-02\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Josu\Documents\GitJosu\TP-02\Entidades\bin\Debug\Entidades.dll
+C:\Users\Josu\Documents\GitJosu\TP-02\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Josu\Documents\GitJosu\TP-02\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Josu\Documents\GitJosu\TP-02\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Josu\Documents\GitJosu\TP-02\Entidades\obj\Debug\Entidades.dll
+C:\Users\Josu\Documents\GitJosu\TP-02\Entidades\obj\Debug\Entidades.pdb

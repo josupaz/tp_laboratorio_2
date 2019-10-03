@@ -8,6 +8,8 @@ namespace Entidades_2018
 {
     public class Dulce : Producto
     {
+        #region "Constructores"
+
         /// <summary>
         /// Constructor de Dulce, reutiliza el del padre.
         /// </summary>
@@ -18,6 +20,9 @@ namespace Entidades_2018
             :base(codigo,marca,color)
         {
         }
+        #endregion
+
+        #region "Propiedades"
 
         /// <summary>
         /// Los dulces tienen 80 calorías
@@ -29,6 +34,10 @@ namespace Entidades_2018
                 return 80;
             }
         }
+        #endregion
+
+        #region "Metodos"
+
         /// <summary>
         /// Metodo Mostrar hereda de padre y aumenta datos a mostrar propios de la clase
         /// </summary>
@@ -44,5 +53,6 @@ namespace Entidades_2018
 
             return sb.ToString();
         }
+        #endregion
     }
 }
